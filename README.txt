@@ -16,7 +16,7 @@ How to use :
 
 Step 1:
 
-git clone https://github.com/suttonj06/random-user-api-react.git
+git clone https://github.com/meghagodwal/Project-master
 
 Step 2:
 
